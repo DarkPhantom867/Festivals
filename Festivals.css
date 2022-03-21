@@ -1,0 +1,70 @@
+body{background-image: radial-gradient(cyan, darkcyan);}
+#title1{background-image: repeating-radial-gradient(violet, blueviolet);
+       font-size: xx-large;
+       font-family: cursive;
+       text-align: center;}
+.text-container{
+    display: flex;
+    height: 0%;
+    width: 100%;
+    background-image: repeating-linear-gradient(lightblue, rgb(43, 144, 226));}
+#flex1{width: 50%;
+    height:400px;
+    margin: 10px;
+    font-size: x-large;
+    background-image: repeating-radial-gradient(violet, blueviolet);}
+#flex2{width: 50%;
+    height:400px;
+    margin: 10px;
+    font-size: x-large;
+    background-image: url(diwali.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;}
+#sub1{background-color: rgb(76, 0, 139) ;
+     font-size: xx-large;
+     font-family: cursive;}
+nav li{list-style: none;
+    display: inline-block;
+    padding: 10px;}
+#title3{text-decoration: gainsboro;
+       background-color: blueviolet;}
+.text-container{
+    display: flex;
+    height: 0%;
+    width: 100%;
+    background-image: repeating-linear-gradient(lightblue, rgb(43, 144, 226));}
+#sub2{background-color: rgb(76, 0, 139) ;
+    font-size: xx-large;
+    font-family: cursive;}
+#flex3{width: 50%;
+        height:400px;
+        margin: 10px;
+        font-size: x-large;
+        background-image: repeating-radial-gradient(violet, blueviolet);}
+#flex4{width: 50%;
+        height:400px;
+        margin: 10px;
+        font-size: x-large;
+        background-image: url(holi.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;}
+.text-container{
+        display: flex;
+        height: 0%;
+        width: 100%;
+        background-image: repeating-linear-gradient(lightblue, rgb(43, 144, 226));}
+        #sub3{background-color: rgb(76, 0, 139) ;
+            font-size: xx-large;
+            font-family: cursive;}
+        #flex5{width: 50%;
+                height:400px;
+                margin: 10px;
+                font-size: x-large;
+                background-image: repeating-radial-gradient(violet, blueviolet);}
+        #flex6{width: 50%;
+                height:400px;
+                margin: 10px;
+                font-size: x-large;
+                background-image: url(Eid.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;}
